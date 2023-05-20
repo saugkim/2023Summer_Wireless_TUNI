@@ -33,10 +33,12 @@ Additional material, Lecture 5Verkko-osoite
 ## Materials from demo session on 2G-5G performance metrics (self study, optional reading)  
 
 Short presentation of demo goalsTiedosto
+
 Mesaurement resultsTiedosto
 
 
 ## SOFTWARE (optional reading)
 
 Matlab file - OFDM demoTiedosto
+
 Matlab file - CDMA demoTiedosto 
