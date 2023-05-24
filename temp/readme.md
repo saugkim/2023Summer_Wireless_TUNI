@@ -37,15 +37,63 @@ Communication is mainly through email. I am here to help you :)
 
 Mandatory
 
-Literature report  
-9 (30%)
+Literature report  9 (30%)
 
-Final Project  
-15 (50%)
+Final Project  15 (50%)
 
-Final Project presentation  
-6 (20%)
+Final Project presentation  6 (20%)
 
+
+### Lectures
+
+Week 25  
+Lecture 1 – Introduction [slides]Verkko-osoite  
+Lecture 1 – Introduction [video]Verkko-osoite  
+Lecture 2 – Epic fails in testing [slides]Verkko-osoite  
+Lecture 2 – Epic fails in testing [video]Verkko-osoite  
+
+Week 26  
+Lecture 3 – Testing phases [video]Verkko-osoite  
+Lecture 3 – Testing phases [slides]Verkko-osoite  
+Lecture 4 – Terms and concepts [video]Verkko-osoite  
+Lecture 4 – Terms and concepts [slides]Verkko-osoite  
+Lecture 5 – What is testing and what it is not? [video]Verkko-osoite  
+Lecture 5 – What is testing and what it is not? [slides]Verkko-osoite  
+
+Week 27  
+Lecture 6 – What is being tested [video]Verkko-osoite  
+Lecture 6 – What is being tested [slides]Verkko-osoite  
+Lecture 7 – Testing approaches and techniques [video]Verkko-osoite  
+Lecture 7 – Testing approaches and techniques [slides]Verkko-osoite  
+
+Week 28  
+Lecture 8 – Testing tools and documentation [video]Verkko-osoite  
+Lecture 8 – Testing tools and documentation [slides]Verkko-osoite  
+
+Week 29  
+Lecture 9 – Testing automation [video]Verkko-osoite  
+Lecture 9 – Testing automation [slides]Verkko-osoite  
+Lecture 10 – Different business, different testing; Different software layer, different issues [video]Verkko-osoite  
+Lecture 10 – Different business, different testing; Different software layer, different issues [slides]Verkko-osoite  
+
+Week 30  
+Lecture 11 – When to stop testing? [video]Verkko-osoite  
+Lecture 11 – When to stop testing? [slides]Verkko-osoite  
+Lecture 12 – SWEBOK and testing in a nutshell [video]Verkko-osoite  
+Lecture 12 – SWEBOK and testing in a nutshell [slides]Verkko-osoite
+
+Week 31  
+Lecture 13 – Real life problems [video]Verkko-osoite  
+Lecture 13 – Real life problems [slides]Verkko-osoite  
+
+Other relevant material
+
+BooK (Introduction to software testing-2nd edition)
+For detail information and understandings of software testing stages, please refers to the attached book.
+
+You Are Not Done Yet - a compendium of ideas for testing softwareVerkko-osoite
+
+In this document a tester gives his insight on what should be tested. The list is long but it gives one an idea on what to test when one thinks that "all is now tested", which of course is not the case.
 
 ### Final Project
 Final Project Points= 15 (50%)
