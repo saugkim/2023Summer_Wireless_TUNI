@@ -47,7 +47,49 @@ Final Project presentation
 6 (20%)
 
 
+### Final Project
+Final Project Points= 15 (50%)
 
+The course project is introduced here:   https://docs.google.com/document/d/1GLciP0paYvut9pgKDsNGapMYxFwCTuHFJLpUiZ5bSlE/edit?usp=sharing
+
+Netbeans and unit testing [demovideo]  
+https://www.youtube.com/watch?v=wL2mAkVqw-c
+
+Netbeans and test-driven development [demovideo]  
+https://www.youtube.com/watch?v=APbs6FSsgaw
+
+Netbeans and integration testing [demovideo]  
+https://www.youtube.com/watch?v=IsRokil2A6o
+
+
+### Final Project Presentation
+
+Points= 6(20%)  
+
+Record the presentation considering the following contents:
+     1 -small introduction of your project
+     2 -Test cases you have conducted
+     3 -Bugs that have been found (if any)
+     4 -Final conclusion of the project (What is the overall state of the project?, How well was your testing? What improvement would still be needed).
+
+Submission of course project  
+Submit only one PDF-file.  
+Group submits only once.
+
+Presentation    
+Formation of groups to return the practical assignment / course projectRyhmänmuodostus
+The course project is done in a group of five students. If no fifth person is found four students can work together.
+
+### Literature Report  
+The literature review provides a review of the relevant contributions from the existing body of literature. This task aims to understand the state-of-the-art research conducted in the domain of software testing. This is a group task (5 people) and you can go with the same group formed for the final project.
+
+Three papers are uploaded, and you need to write a summary of each section of the papers, including the research gap (future work).  (total  9 points, 3  point per each paper)
+
+Paper 1 Tiedosto  
+Paper 2 Tiedosto  
+Paper 3 Tiedosto  
+Sample of Literature SummaryTiedosto  
+Literature report  
 
 
 
